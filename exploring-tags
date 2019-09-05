@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Exploring my New tags</title>
+</head>
+<body>
+Short quotation. <q>To err is human</q> - Alexender Pope.
+        <p> 
+            Google LLC is an American multinational technology company that specializes in - <hr><blockquote>Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies, alongside Amazon, Apple and Facebook.</blockquote> <hr>
+            <pre>
+                Text in a pre element 
+                is displayed in a fixed width 
+                font and it preserves 
+                both    spaces and line breaks
+            </pre>
+        </p>
+
+
+</body>
+</html>
